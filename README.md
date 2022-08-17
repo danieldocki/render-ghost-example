@@ -10,6 +10,6 @@ This is a template repository for running [Ghost](https://ghost.org) on Render.
 
 ## Deployment
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/render-examples/ghost)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/danieldocki/render-ghost-example)
 
 See https://render.com/docs/deploy-ghost.
